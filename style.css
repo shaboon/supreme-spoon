@@ -1,0 +1,114 @@
+html {
+    background-color: rgb(255,125,80);
+    font-family: serif
+}
+
+head {
+    text-align: center;
+    margin: auto;
+    font-family: serif
+}
+
+h1 {
+    text-align: center;
+    margin: auto
+}
+
+h2 {
+    text-align: center;
+    margin: 10px auto;
+}
+
+div {
+    text-align: center;
+    margin: 50px auto;
+}
+
+.achieve {
+    width: 860px;
+    height: 585px;
+    font-size: 72px;
+    font-family: inherit;
+    margin: 50px center;
+    text-align: center;
+    background-color: rgb(72,72,72);
+    color: #FFFFFF;  
+}
+
+.achieve:hover {
+    width: 860px;
+    height: 585px;
+    font-size: 85px;
+    font-family: inherit;
+    margin: 50px center;
+    text-align: center;
+    background-color: rgb(100,100,100);
+    color: #FFFFFF;  
+}
+
+.achieve:active {
+    width: 860px;
+    height: 585px;
+    font-size: 0px;
+    font-family: inherit;
+    margin: 50px center;
+    text-align: center;
+    color: clear;
+    background-image: url('https://www.kindpng.com/picc/m/279-2795288_temmie-face-hd-png-download.png');
+    background: auto;
+    color: #FFFFFF;  
+}
+
+.p1 {
+    margin: auto;
+    font-family: sans-serif;
+    
+}
+
+.p2 {
+    font-family: fantasy;
+    text-align: center;
+    font-size: 96px;
+    margin: auto
+}
+
+.list {
+    text-align: center;
+    font-size: 32px;
+    margin: auto;
+}
+
+button {
+    width: 500px;
+    height: 50px;
+    font-size: 36px;
+    font-family: inherit;
+    margin: 50px center;
+    text-align: center;
+    background-color: rgb(72,72,72);
+    color: #FFFFFF;
+}
+    
+button:hover {
+    width: 500px;
+    height: 50px;
+    font-size: 40px;
+    font-family: inherit;
+    margin: 50px center;
+    text-align: center;
+    background-color: rgb(100,100,100);
+    color: #FFFFFF;  
+}
+
+button:active {
+    width: 500px;
+    height: 50px;
+    font-size: 36px;
+    font-family: inherit;
+    margin: 50px center;
+    text-align: center;
+    background-color: rgb(20,20,20);
+    color: #FFFFFF;  
+    
+}
+
